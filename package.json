@@ -1,0 +1,12 @@
+{
+  "name": "stereon-roadshow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stereon VC roadshow microsite",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
